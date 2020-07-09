@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-# {My favorite things}
-=======
-# {My first webpage}
->>>>>>> 052ead3c10fc873c48afd98a8bdb3af5ae772529
+# My first webpage
 #### {This is my first webpage as I begin the journey of software development in Moringa School}, {9/8/2020}
 <!-- #### By **{List of contributors}** -->
 ## Description
